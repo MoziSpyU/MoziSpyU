@@ -1,0 +1,11 @@
+pip install os
+pip install fade
+pip install time
+pip install requests
+pip install webbrowser
+pip install random
+pip install base64
+pip install sys
+pip install socket
+pip install colorama
+pip install bs4
